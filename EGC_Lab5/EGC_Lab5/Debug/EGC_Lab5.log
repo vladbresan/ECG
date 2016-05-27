@@ -1,0 +1,7 @@
+﻿  EGC_Lab5.cpp
+d:\faculta\sem 2\egc_lab5\egc_lab5\egc_lab5.cpp(145): warning C4305: '+=': truncation from 'double' to 'float'
+d:\faculta\sem 2\egc_lab5\egc_lab5\egc_lab5.cpp(172): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\faculta\sem 2\egc_lab5\egc_lab5\egc_lab5.cpp(173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\faculta\sem 2\egc_lab5\egc_lab5\egc_lab5.cpp(174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\faculta\sem 2\egc_lab5\egc_lab5\egc_lab5.cpp(175): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  EGC_Lab5.vcxproj -> D:\Faculta\Sem 2\EGC_Lab5\Debug\EGC_Lab5.exe

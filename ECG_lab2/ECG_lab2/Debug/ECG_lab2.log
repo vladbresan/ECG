@@ -1,0 +1,3 @@
+﻿ECG_Lab2.obj : error LNK2019: unresolved external symbol "float __cdecl egc::dotProduct(class egc::vec2 const &,class egc::vec2 const &)" (?dotProduct@egc@@YAMABVvec2@1@0@Z) referenced in function "int __cdecl egc::testVec2Implementation(void)" (?testVec2Implementation@egc@@YAHXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+c:\users\alexandra\documents\visual studio 2015\Projects\ECG_lab2\Debug\ECG_lab2.exe : fatal error LNK1120: 2 unresolved externals

@@ -1,0 +1,121 @@
+﻿  vec4.cpp
+  vec3.cpp
+  vec2.cpp
+  testMatrix.cpp
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\testmatrix.cpp(184): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\testmatrix.cpp(184): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Source.cpp
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\source.cpp(14): warning C4102: 'std': unreferenced label
+  mat4.cpp
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(40): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(88): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(88): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(93): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(93): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(94): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(94): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(95): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(95): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(96): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(96): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(97): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(97): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(98): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(98): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(100): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(100): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(101): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(101): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(102): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(102): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(103): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(103): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(104): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(104): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(105): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(105): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(107): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(107): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(108): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(108): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(109): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(109): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(110): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(110): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(111): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(111): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(112): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(112): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(114): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(114): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(115): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(115): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(116): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(116): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(117): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(117): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(118): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(118): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(119): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(119): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(121): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(121): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(122): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(122): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(123): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(123): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(124): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(124): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(125): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(125): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(126): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(126): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(128): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(128): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(129): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(129): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(130): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(130): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(131): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(131): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(132): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(132): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(133): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(133): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(135): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(135): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(136): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(136): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(137): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(137): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(138): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(138): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(139): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(139): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(140): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(140): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(142): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(142): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(143): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(143): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(144): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(144): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(145): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(145): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(146): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(146): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(147): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(147): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(149): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(149): error C2088: '[': illegal for class
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(150): error C2676: binary '[': 'egc::mat4' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat4.cpp(150): fatal error C1003: error count exceeds 100; stopping compilation
+  mat3.cpp
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat3.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat3.cpp(39): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat3.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat3.cpp(76): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\faculta\sem 2\ecg_lab3\ecg_lab3\mat3.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
